@@ -2,3 +2,4 @@ streamlit
 networkx
 astor
 google.generativeai
+dotenv
