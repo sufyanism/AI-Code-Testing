@@ -110,7 +110,7 @@ st.markdown('<div class="footer-container">© 2026 Zeba Academy | Empowering Aca
 
 # --- 4. Logic Functions ---
 
-api_key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
+api_key = os.getenv("GEMINI_API_KEY")
 if api_key:
     genai.configure(api_key=api_key)
     # Gemini 1.5 Flash is highly recommended for speed and efficiency
@@ -202,4 +202,5 @@ if uploaded_file:
                     # Scrollable error output
                     error_msg = str(e)
                     st.markdown(f'<div class="error-scroll">{error_msg}</div>', unsafe_allow_html=True)
+
                     st.warning("If this is a 429 error, the API quota is exhausted. Please try again in a few minutes.")
