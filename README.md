@@ -81,6 +81,8 @@ python main.py
 
 The program will analyze the codebase and generate test cases automatically.
 
+# Demo
+<img width="1042" height="878" alt="AI-Code-Checker" src="https://github.com/user-attachments/assets/d7bae20a-6d1c-44db-a19a-5e8f885b53b8" />
 
 ## 📊 Example Workflow
 1. Add your source code to the project.
