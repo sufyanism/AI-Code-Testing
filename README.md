@@ -2,7 +2,7 @@
 # AI Code Testing
 AI Code Testing is a project designed to automatically analyze source code and generate intelligent test cases using Artificial Intelligence. The goal is to reduce the manual effort required for writing tests while improving software quality. This tool helps developers quickly create test cases for functions, modules, or entire repositories by leveraging AI models and static code analysis.
 
----
+
 ## 🚀 Features
 - AI-generated test cases for source code
 - Automatic code analysis
@@ -12,9 +12,7 @@ AI Code Testing is a project designed to automatically analyze source code and g
 - Fast test generation for large repositories
 - Easy integration with development workflows
 
-AI-powered testing tools can help automate repetitive tasks like unit test creation and code analysis, allowing developers to focus on building features instead of writing boilerplate tests. :contentReference[oaicite:0]{index=0}
 
----
 ## 🧠 How It Works
 1. The tool scans the project repository.
 2. It analyzes source files and functions.
@@ -22,7 +20,6 @@ AI-powered testing tools can help automate repetitive tasks like unit test creat
 4. Generated tests are exported in standard testing formats.
 5. Developers can review and run the generated tests.
 
----
 ## 📂 Project Structure
 
 ```
@@ -39,8 +36,6 @@ AI-Code-Testing/
 ├── requirements.txt
 └── README.md
 ````
-
----
 
 ## ⚙️ Installation
 Clone the repository:
@@ -76,8 +71,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
----
-
 ## ▶️ Usage
 
 Run the main script:
@@ -88,7 +81,6 @@ python main.py
 
 The program will analyze the codebase and generate test cases automatically.
 
----
 
 ## 📊 Example Workflow
 1. Add your source code to the project.
@@ -96,15 +88,11 @@ The program will analyze the codebase and generate test cases automatically.
 3. AI generates unit tests.
 4. Run the generated tests using your preferred test framework.
 
----
-
 ## 🛠 Technologies Used
 * Python
 * AI / LLM based code analysis
 * Static code parsing
 * Test generation algorithms
-
----
 
 ## 🎯 Use Cases
 * Automated unit test generation
@@ -113,4 +101,18 @@ The program will analyze the codebase and generate test cases automatically.
 * Learning tool for understanding testing practices
 * Rapid testing for prototypes
 
----
+
+## About Me 
+✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
+You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
+
+## Your all-in-one learning hub! 
+🚀 Explore courses and resources in coding, tech, and development at **zeba.academy** and **code.zeba.academy**. Empower yourself with practical skills through curated tutorials, real-world projects, and hands-on experience. Level up your tech game today! 💻✨
+
+**Zeba Academy**  is a learning platform dedicated to **coding**, **technology**, and **development**.  
+➡ Visit our main site: [zeba.academy](https://zeba.academy)   </br>
+➡ Explore hands-on courses and resources at: [code.zeba.academy](https://code.zeba.academy)   </br>
+➡ Check out our YouTube for more tutorials: [zeba.academy](https://www.youtube.com/@zeba.academy)  </br>
+➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
+
+**Thank you for visiting!**
